@@ -1,6 +1,6 @@
-# Code and Supplementary Material for Differentially Private Global Explanations
+# Code and Supplementary Material for Tailoring Differential Privacy to Any Explainer
 
-This is the repository for the code and supplementary material for the submission "Differentially Private Global Explanations -- Tailoring DP to Any Explainer".
+This is the repository for the code and supplementary material for the submission "Tailoring Differential Privacy to Any Explainer".
 
 # Code
 
@@ -8,4 +8,4 @@ The list of required python packages can be found in `requirements.txt`. You can
 
 # Supplementary Material
 
-The supplementary material -- with additional results, all proofs, and the design and evaluation of Accumulated Local Effects -- can be found as a PDF file `Supplementary_Material_Differentially_Private_Global_Explanations.pdf` in the root folder.
+The supplementary material -- with additional results, all proofs, and the design and evaluation of Accumulated Local Effects -- can be found as a PDF file `Supplementary_Material_Tailoring_Differential_Privacy_to_Any_Explainer.pdf` in the root folder.
