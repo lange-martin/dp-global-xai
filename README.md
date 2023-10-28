@@ -8,4 +8,4 @@ The list of required python packages can be found in `requirements.txt`. You can
 
 # Supplementary Material
 
-The supplementary material -- with additional results, all proofs, and the design and evaluation of Accumulated Local Effects -- can be found as a PDF file `Supplementary_Material_Tailoring_Differential_Privacy_to_Any_Explainer.pdf` in the root folder.
+The supplementary material -- with additional results, all proofs, and the design and evaluation of Partial Dependence Plots -- can be found as a PDF file `Supplementary_Material_Tailoring_Differential_Privacy_to_Any_Explainer.pdf` in the root folder.
